@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import MRlogo from './assets/Mythical Robotics.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
