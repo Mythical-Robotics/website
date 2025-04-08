@@ -1,4 +1,4 @@
-import MRlogo from './assets/Mythical Robotics.svg'
+import MRlogo from './assets/mythical-robotics.svg'
 import './App.css'
 
 function App() {
